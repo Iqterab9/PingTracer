@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/pingtracer.png</file>
+        <file>icons/start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/reset.png</file>
+        <file>icons/export.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/help.png</file>
+        <file>icons/about.png</file>
+        <file>styles/professional.qss</file>
+        <file>styles/dark.qss</file>
+        <file>styles/light.qss</file>
+    </qresource>
+</RCC>
