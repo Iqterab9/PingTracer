@@ -322,7 +322,7 @@ When reporting bugs, please include:
 
 **Website**: [www.iqterabharvey.me](https://www.iqterabharvey.me)  
 **GitHub**: [@Iqterab9](https://github.com/Iqterab9)  
-**Contact**: [harvey@iqterabharvey.me](mailto:harvey@iqterabharvey.me)
+**Contact**: [contact@iqterabharvey.me](mailto:harvey@iqterabharvey.me)
 
 ---
 
