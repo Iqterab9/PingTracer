@@ -3,7 +3,7 @@
 ![PingTracer Logo](https://via.placeholder.com/200x80/4299e1/ffffff?text=PingTracer)
 
 **Developer:** Harvey  
-**Website:** [www.iqterabharvey.me](https://www.iqterabharvey.dev)  
+**Website:** [www.iqterabharvey.dev](https://www.iqterabharvey.dev)  
 **Version:** 1.0.0  
 
 ## Overview
@@ -320,9 +320,9 @@ When reporting bugs, please include:
 
 **Harvey** is a passionate software developer specializing in network tools and system utilities. With expertise in C++, Qt, and cross-platform development, Harvey creates professional-grade applications that solve real-world problems.
 
-**Website**: [www.iqterabharvey.me](https://www.iqterabharvey.dev)  
+**Website**: [www.iqterabharvey.dev](https://www.iqterabharvey.dev)  
 **GitHub**: [@Iqterab9](https://github.com/Iqterab9)  
-**Contact**: [contact@iqterabharvey.me](mailto:harvey@iqterabharvey.dev)
+**Contact**: [contact@iqterabharvey.dev](mailto:harvey@iqterabharvey.dev)
 
 ---
 
